@@ -1,8 +1,1 @@
-#!/bin/bash
-
-if ! command -v hugo; then
-	echo "Please install hugo: apt-get install -y hugo / dnf install -y hugo / brew install hugo"
-	exit 1
-fi
-echo "Open in your browser: http://localhost:1313"
-hugo server
+d53833790aa3f41ca64031e77d8a1a92/run_site.sh
